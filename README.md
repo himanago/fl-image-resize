@@ -4,7 +4,7 @@ The easiest way to resize images stored in Blob Storage (on Azure); uses [ImageS
 
 ## Quick Deploy to Azure
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.svg)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fhimanago%2Ffl-image-resize%2Fmaster%2Fazuredeploy.json)
 
 ## Configuration
 
